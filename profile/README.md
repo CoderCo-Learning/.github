@@ -13,4 +13,4 @@
 
 ## Links
 
-- [CoderCo](https://www.coderco.io)
+- [CoderCo](https://www.skool.com/coderco)
