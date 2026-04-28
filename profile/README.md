@@ -14,5 +14,3 @@
 ## Links
 
 - [CoderCo](https://www.coderco.io)
-- [KillerCoda Labs](https://killercoda.com/coderco-live)
-- [YouTube](https://www.youtube.com/@CoderCo)
